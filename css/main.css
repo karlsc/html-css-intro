@@ -41,3 +41,14 @@ nav {
     padding: 10px;
     margin-bottom: 40px;
 }
+
+section table {
+    text-align:center;
+}
+section table tr td {
+    padding:2px;
+}
+
+.bold {
+    font-weight:bold;
+}
