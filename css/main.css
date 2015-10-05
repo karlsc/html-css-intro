@@ -52,3 +52,39 @@ section table tr td {
 .bold {
     font-weight:bold;
 }
+footer {
+    background-color:black;
+    color:white;
+    float:right;
+    width:50%;
+}
+footer a {
+    color:tomato;
+    text-decoration:none;
+}
+aside {
+    float:left;
+    width:50%;
+}
+aside p {
+    padding-left:15px;
+}
+aside a {
+    padding-left:15px;
+}
+footer img {
+    width:100px;
+}
+footer ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+footer li {
+    display: inline-block;
+    padding: 5px;
+    margin-left: 10px;
+}
+footer h3 {
+    margin-left:15px;
+}
