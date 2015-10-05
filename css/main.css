@@ -24,6 +24,7 @@ section {
 /* select all the UL elements that are anywhere insde a NAV element */
 nav ul {
     list-style: none;
+    padding: 0;
 }
 nav li {
     display: inline;
